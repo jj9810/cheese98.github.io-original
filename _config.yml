@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
 title                    : "cheese98's Github Page"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "HJ J"
+name                     : "cheese98"
 description              : "Repositories introduction site"
 url                      : "https://cheese98.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "HJ J"
+  name             : "cheese98"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Paju, Gyeonggi-do"
+  location         : "Paju, Gyeonggi-do, Republic of Korea"
   email            :
   links:
     - label: "Email"
