@@ -1,7 +1,8 @@
 ---
 title: "Introduce Myself"
 date: 2020-02-21 20:00 
-category: chat
+categories: [chat]
+
 ---
 
 Real name: **Hongjoon Jun** or **Hongjoon Jeon**
